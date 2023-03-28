@@ -5,18 +5,30 @@ class Piece:
         self.value = value
         self.representation = representation
         
-    def moveVector(pos1, pos2, pos3, pos4):
-        conversionLib = {
-        1: "a"
-        2: "b"
-        3: "c"
-        4: "d"
-        5: "e"
-        6: "f"
-        7: "g"
-        8: "h"
+    def moveVector(posx1, posy1, posx2, posy2):
+        conversionLibLetter = {
+        'a': 1,
+        'b': 2,
+        'c': 3,
+        'd': 4,
+        'e': 5,
+        'f': 6,
+        'g': 7,
+        'h': 8,
 }
-        vector = []
+        conversionLibNumber = {
+        1: 8,
+        2: 7,
+        3: 6,
+        4: 5,
+        5: 4,
+        6: 3,
+        7: 2,
+        8: 1
+}
+        y = conversionLibNumber[posy2] - conversionLibNumber[posy1]
+        x = conversionLibLetter[posx2] - conversionLibNumber[posx1]
+        vector = [x,y]
         return vector
         
 class King(Piece): 
