@@ -1,21 +1,22 @@
-# igglyBUFF Chess Bot
-
-Building a chess bot from scratch and making it compete against my friend's bots named gamerRfish and benfish, then comparing it with Stockfish.
-
-## Environment and Libraries
+# **igglyBUFF Chess Bot**
+## **Environment and Libraries**
 Python version - 3.9.13
 
-## Competition
-### igglyBUFF(python)
- - @PenguiNerd1000
- - github.com/...
-### gamerRfish(c++)
- - @...
- - github.com/...
-### benfish(c++)
- - @...
- - github.com/...
+## **Chess Bots**
+### **igglyBUFF**(python)
+ > @PenguiNerd1000
+ > https://github.com/PenguiNerd1000/igglyBUFF
+### **gamerRfish**(c++)
+ > @...
+ > github.com/...
+### **benfish**(c++)
+ > @qwerty1034
+ > github.com/...
 
+## **Games**
+In format of white vs black,
+1. e4 e5
+2. Nf3 Nc6 ...
 ### gamerRfish vs igglyBUFF
 1. 
 
