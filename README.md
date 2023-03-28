@@ -21,3 +21,9 @@ benfish(c++) - @... - github.com/...
 
 ### igglyBUFF vs benfish
 1. 
+
+### igglyBUFF vs Stockfish
+1.
+
+### Stockfish vs igglyBUFF
+1. 
