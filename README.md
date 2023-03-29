@@ -4,14 +4,11 @@ Python version - 3.9.13
 
 ## **Chess Bots**
 ### **igglyBUFF**(python)
- > @PenguiNerd1000
- > https://github.com/PenguiNerd1000/igglyBUFF
+ > @PenguiNerd1000 - https://github.com/PenguiNerd1000/igglyBUFF
 ### **gamerRfish**(c++)
- > @...
- > github.com/...
+ > @epicgamerryt - github.com/...
 ### **benfish**(c++)
- > @qwerty1034
- > github.com/...
+ > @qwerty1034 - github.com/...
 
 ## **Games**
 In format of white vs black,
